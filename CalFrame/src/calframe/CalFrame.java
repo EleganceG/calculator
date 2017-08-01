@@ -153,6 +153,5 @@ public class CalFrame extends JFrame {
 	}
 	public static void main(String[] args) {
 		new CalFrame();
-		System.out.println("123");
 	}
 }

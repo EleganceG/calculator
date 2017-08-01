@@ -38,7 +38,7 @@ public class MyMathTest {
 	@Test
 	public void testDivide() {
 		double c = MyMath.divide(10.0, 5.0);
-		System.out.println(c);
-		assertEquals(c,2.0,0.1);
+		//System.out.println(c);
+		assertEquals(c,1.0,0.1);
 	}
 }
